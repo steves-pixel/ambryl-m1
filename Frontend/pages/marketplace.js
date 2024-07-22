@@ -22,7 +22,7 @@ export default function Home() {
   }, [])
 
 
-  const QueryURL = "https://api.studio.thegraph.com/query/54911/decentralised-olx/v0.0.1";
+  const QueryURL = "https://api.studio.thegraph.com/query/54911/ambryl-m1/v0.0.1";
 
   let query = `
     {
